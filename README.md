@@ -51,5 +51,5 @@ This Flutter-based weather application delivers real-time weather data by intera
 ## Future Enhancements
 - **Forecast Data**: Add a feature to display weather forecasts for upcoming days.
 
-## Here I am also sharing you the Screen-Recording Drive Link of My Weather Application So kindlhy click on Drive Link To See the Video of Weather Application
+## Here I am also sharing you the Screen-Recording Drive Link of My Weather Application So kindly click on Drive Link To See the Video of Weather Application
 **Link for ScreenRecording Video** => https://drive.google.com/file/d/1B9v9ywGlhzNU9LWGaunvP9v1ERK50r-f/view?usp=sharing
